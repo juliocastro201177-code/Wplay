@@ -1,0 +1,6 @@
+{
+  "name": "WePlay Clone LATAM",
+  "description": "Party Game & Voice Chat App clon WePlay 6.2.4 LATAM con salas de voz en vivo, 30 regalos animados exclusivos, avatar 3D Chibi personalizable, juego Draw & Guess en tiempo real y minijuegos sociales.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
